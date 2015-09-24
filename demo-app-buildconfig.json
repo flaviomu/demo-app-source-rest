@@ -23,13 +23,13 @@
                "kind": "DockerImage",
 	       "name": "flaviomu/app-builder:v1"
             },
-	    "forcePull": true
+            "forcePull": true
          }
       },
       "output": {
          "to": {
             "kind": "DockerImage",
-            "name": "172.30.67.131:5000/user-project/output-sti-test-build"
+            "name": "172.30.54.3:5000/user-project/demo-app-source-rest"
          }
       }
    }
